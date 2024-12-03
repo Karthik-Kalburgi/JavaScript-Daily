@@ -25,3 +25,30 @@
 // }
 
 // console.log(ReverseString("Karthik Kalburgi"));
+
+
+//python program to check paildrome
+
+//     function paildrome(str){
+//     let reverse = str.split('').reverse().join('');
+//     if(str === reverse){
+//         return true;
+//     }else{
+//         return false;
+//     }
+//    // console.log(reverse);
+    
+// }
+
+// console.log(paildrome("abbaa"));
+// console.log(paildrome("abba"));
+
+
+//Write a function to write the strings in alphabetical order
+
+function alphabetical(str){
+    return ans  = str.split('').sort();
+
+}
+
+console.log(alphabetical('apple'));
