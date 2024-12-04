@@ -46,9 +46,9 @@
 
 //Write a function to write the strings in alphabetical order
 
-function alphabetical(str){
-    return ans  = str.split('').sort();
+// function alphabetical(str){
+//     return ans  = str.split('').sort();
 
-}
+// }
 
-console.log(alphabetical('apple'));
+// console.log(alphabetical('apple'));
